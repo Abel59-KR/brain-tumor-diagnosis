@@ -10,4 +10,4 @@ Denoising technique used is bilateral filtering.
 Qualitative analysis used is PSNR for evaluating the effectiveness of the the denoising technique.
 Histogram equalizationis used to distribute pixel intesity across the image. 
 # Training and evaluation 
-YOLOv8 pretrained model is used for traning and valiation. The model achieved and accura
+YOLOv8 pretrained model is used for trainning and validation. 
