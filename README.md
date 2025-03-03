@@ -11,3 +11,7 @@ Qualitative analysis used is PSNR for evaluating the effectiveness of the the de
 Histogram equalizationis used to distribute pixel intesity across the image. 
 # Training and evaluation 
 YOLOv8 pretrained model is used for trainning and validation. 
+# Results and Experimentation 
+1. meningiom - 0.99.
+2. Glicoma - 0.95.
+3. pitiutary - 0.99.
