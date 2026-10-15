@@ -1,4 +1,4 @@
-# Brain Tumor Diagnosis using YOLOv8
+# Brain Tumor Classification using YOLOv8
 
 ## Project Overview
 This project implements an automated brain tumor detection and classification system using deep learning. The system detects and classifies brain tumors into three categories: Meningioma, Glioma, and Pituitary tumors using the YOLOv8 pre-trained model.
